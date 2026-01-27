@@ -29,7 +29,7 @@
 + [su_1.0.11.8](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Simply-Upscaled-Build/su_1.0.11.8.milanguage)
 + [su_1.0.11.9](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Simply-Upscaled-Build/su_1.0.11.9.milanguage)
 + [su_1.0.12.0](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Simply-Upscaled-Build/su_1.0.12.0.milanguage)
-+ + [su_1.0.12.1](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Simply-Upscaled-Build/su_1.0.12.1.milanguage)
++ [su_1.0.12.1](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Simply-Upscaled-Build/su_1.0.12.1.milanguage)
 
 ### Mine-imator-2.0.2-Continuation-Build
 + [ctb_1.0.12](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Continuation-Build/ctb_1.0.12.milanguage)
